@@ -12,7 +12,7 @@ Frameworks
 
 Hypermedia
 
----
+---?image=bulb.jpg
 
 SOFTWARE AUTOMATION
 
